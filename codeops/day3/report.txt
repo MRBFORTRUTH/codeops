@@ -1,0 +1,4 @@
+--- Customer Spend Summary ---
+alemitu: $64646.00
+chala: $8777.00
+abebe: $1200.00
