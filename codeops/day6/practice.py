@@ -93,7 +93,7 @@ if __name__ == "__main__":
     registry = AccountRegistry()
     
     acc1 = Account("Sara", 101, 5000)
-    acc2 = SavingsAccount("Abebe", 102, 12000, 0.05)
+    acc2 = SavingsAccount("kebede", 102, 12000, 0.05)
     acc3 = CurrentAccount("Chala", 105, 3000, 500)
     
     registry.add(acc1)
