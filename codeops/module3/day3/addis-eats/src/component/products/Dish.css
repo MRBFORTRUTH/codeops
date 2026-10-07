@@ -1,0 +1,11 @@
+.dish {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(189, 236, 17);
+    padding: 12px;
+}
+
+.dish img {
+    width: 200px;
+    height: 60px;
+}
